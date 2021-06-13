@@ -1,0 +1,42 @@
+*.bak
+*.cmp
+*.done
+*.pin
+*.pof
+*.qdf
+*.sld
+*.rpt
+*.smsg
+*.summary
+*~
+*example*
+*sopc_*
+
+#
+# directories
+#
+.qsys_edit
+db
+greybox_tmp
+incremental_db
+simulation
+testbench
+timing
+
+# based on: https://github.com/thomasrussellmurphy/quartus-DE1_SOC-project/blob/master/.gitignore
+
+# *.eqn
+# *.hex
+# *.html
+# *.htm
+# *.jdi
+# *.jpg
+# *.mif
+# *.ptf.*
+# *.qar
+# *.qarlog
+# *.qws
+# *.sopc_builder
+# *.tcl
+# *.txt
+
