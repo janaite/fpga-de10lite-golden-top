@@ -1,8 +1,8 @@
-*.cdf linguist-generated
-*.htm linguist-generated
-*.qpf linguist-generated
-*.qsf linguist-generated
-*.qws linguist-generated
-*.sdc linguist-generated
-*.ppf linguist-generated
-*.qip linguist-generated
+*.cdf linguist-detectable=false
+*.htm linguist-detectable=false
+*.qpf linguist-detectable=false
+*.qsf linguist-detectable=false
+*.qws linguist-detectable=false
+*.sdc linguist-detectable=false
+*.ppf linguist-detectable=false
+*.qip linguist-detectable=false
